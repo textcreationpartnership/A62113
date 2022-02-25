@@ -1,0 +1,566 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Timē kai timōria, A beautifull swan with two black feet, or, Magistrates deity attended with mortality &amp; misery affirmed &amp; confirmed before the learned and religious Judge Hales, at the assize holden at Maidstone, July 7, 1657, for the county of Kent / by Henry Symons ...</title>
+            <author>Symons, Henry, M.A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62113</idno>
+            <idno type="STC">Wing S6360B</idno>
+            <idno type="STC">ESTC R22380</idno>
+            <idno type="EEBO-CITATION">12488272</idno>
+            <idno type="OCLC">ocm 12488272</idno>
+            <idno type="VID">62317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62317)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 298:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Timē kai timōria, A beautifull swan with two black feet, or, Magistrates deity attended with mortality &amp; misery affirmed &amp; confirmed before the learned and religious Judge Hales, at the assize holden at Maidstone, July 7, 1657, for the county of Kent / by Henry Symons ...</title>
+                  <author>Symons, Henry, M.A.</author>
+               </titleStmt>
+               <extent>[6], 30, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Hayes and are to be sold by H. Crips ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title transliterated from Greek.</note>
+                  <note>Reproduction of original in British Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms LXXXII, 6-7 --  Sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62317:1"/>
+            <pb facs="tcp:62317:1" rendition="simple:additions"/>
+            <p> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: A BEAUTIFULL SWAN With TWO BLACK FEET.</p>
+            <p>OR, Magiſtrates Deity, ATTENDED WITH Mortality &amp; Miſery: AFFIRMED &amp; CONFIRMED BEFORE THE Learned and Religious JUDGE <hi>HALES,</hi> AT THE Aſſize holden at <hi>Maidſtone,</hi> July 7. 1657.</p>
+            <p>FOR THE COUNTY of KENT.</p>
+            <p>By HENRY SYMONS, M. A. and Miniſter of the Goſpel at <hi>Southfleet</hi> in KENT.</p>
+            <q>
+               <bibl>Pſal. 89. 48.</bibl>
+               <p>
+                  <hi>What man is he that liveth, and ſhall not ſee death? Shall he deliver his ſoul from the hand of the grave? Selah.</hi>
+               </p>
+            </q>
+            <p>Non multum curandum eſt eis qui neceſſario morituri ſunt, quid accidet ut moriantur: ſed moriendo quo ire coguntur. <hi>Aug. de Civ. Dei.</hi> lib. 1. cap. 11.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Hayes,</hi> and are to be ſold by <hi>H. Crips</hi> at his Shop in <hi>Popes-head alley.</hi> 1658.</p>
+            <pb facs="tcp:62317:2" rendition="simple:additions"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:62317:2"/>
+            <head>
+               <hi>To the HONOURABLE</hi> JOHN KELSY, <hi>Major General of the County of</hi> Kent, <hi>AND Governour of</hi> Dover <hi>Caſtle, His much eſteemed FRIEND.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was the buſineſſe of my Sermon to defend Magiſtrates, and I hope it will be the buſineſſe of Magi<g ref="char:EOLhyphen"/>ſtrates to defend my Sermon: I know full well it ſhall ſtand in a worſe place then the man in the <hi>Zodiack,</hi> many daggers will be thruſt into every part, and therefore I humbly fly unto your Honour for Patronage and Protection: And if you demand, <hi>Quo jure?</hi> I having no in<g ref="char:EOLhyphen"/>tereſt in you, Intimacy with you, Dependance upon
+<pb facs="tcp:62317:3"/> you, Expectation from you, I muſt anſwer upon the beſt Title, viz. <hi>Detur digniori,</hi> which you are, both as a publique Magiſtrate, and as a private Chriſtian. I ſhall not bring this Sun of Truth to one who hath ſore eyes and cannot abide the light, nor preſent this glaſſe to a painted or ſpotted face which will not endure the ſight; Your Eagle eyes will bear theſe bright beams, your Angels face can endure this clear and Cryſtall glaſſe which ſhews the whole proportion of a Magiſtrate, <hi>a capite ad calcem:</hi> Here you have his Head, and that is of Gold, <hi>(I have ſaid you are Gods)</hi> Here you have his feet, and they are of earth, <hi>(you ſhall die like men.)</hi> Many Magiſtrates like and love to hear of their Deity, but not of their Mortality, much leſſe of their eternal Miſery; But you are well pleaſed with all, being not proud of your Deity, nor inſenſible of your Mortality, nor afraid of your eternal Miſery: Were all Magiſtrates qua<g ref="char:EOLhyphen"/>lified with that Mercy and Meekneſſe, Humility and Holineſſe, Zeal and Severity, they would ſo mag<g ref="char:EOLhyphen"/>nifie and beautifie that Office, that (as the Heathen ſaid of vertue) <hi>Omnes in amorem ejus traheret,</hi> the work of Miniſters would be both uſeleſſe and needleſſe as for preſsing Duties to, and praiſing the Dignities of Magiſtrates; <hi>Antalcidas</hi> his <hi>Quis un<g ref="char:EOLhyphen"/>quam vituperavit?</hi> would be ſeaſonable. I know alſo I ſhall not tender this Preſent to a rugged and rigid Chriſtian, who can like nothing but what comes from one of his own Church, but your ſweet temper is known to all; You do not expreſſe your ſelf diſtant from them in your affection, who do expreſſe them<g ref="char:EOLhyphen"/>ſelves different from you in their opinion; You can
+<pb facs="tcp:62317:3"/> harbour love to their perſons in your heart, though you cannot harbour liking of their opinions in your head; a moſt excellent pattern for all Magiſtrates, Miniſters, and people fearing God, whoſe great blot and blemiſh it is, that if they have difference with people in their opinion, they will have diſtance from them in their affection; Magiſtrates will not do them juſtice, Miniſters will rail at, and revile them in their publique Pulpits, and Chriſtians will ſlander them in their private meetings.</p>
+            <l>—Pudet haec opprobria nobis</l>
+            <l>Et dici potuiſſe, &amp; non potuiſſe, refelli.</l>
+            <p>My Brethren, theſe things ought not ſo to be, <hi>Jam.</hi> 3. 10. I ſpeak unfeignedly without flattery, had all Magiſtrates, Miniſters, Souldiers, Chriſti<g ref="char:EOLhyphen"/>ans, that Moderation and Diſcretion to bear one anothers burthens, and ſo to fulfill the Law of Chriſt, <hi>Gal.</hi> 6. 2. as you have, I am confident that both certainly and ſuddenly would the Jeſuite be defeated, the Prophane ſilenced, the Neuter con<g ref="char:EOLhyphen"/>vinced, the Doubtfull reſolved, the Godly reconci<g ref="char:EOLhyphen"/>led, and all the honeſt party ſtrengthened, and we ſhould live and love together, as becomes the Pro<g ref="char:EOLhyphen"/>feſſors of the Goſpel. You ſee (Sir) by what te<g ref="char:EOLhyphen"/>nure my Sermon holds, both in <hi>Capite</hi> and in <hi>Corde;</hi> as you are a good Magiſtrate, and a gra<g ref="char:EOLhyphen"/>cious Chriſtian, I beſeech you do not ſue it with a <hi>Writ of Ejection,</hi> either out of your Protection as a Magiſtrate, or Affection as a Chriſtian; by grant<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:62317:4"/> which requeſt you ſhall much oblige him, who eſteems it his higheſt honour to be</p>
+            <closer>
+               <signed>Your loweſt Servant, <hi>HENRY SYMONS.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my Study in</hi> Southfleet, <date>Feb. 7. 1657.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:62317:4"/>
+            <epigraph>
+               <bibl>Pſal. 82. 6, 7.</bibl>
+               <q>I have ſaid ye are Gods; and all of you are children of the moſt High: but ye ſhall dye like men, and fall like one of the Princes.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>O ſpend or ſpin out time with the needleſs thred of curious enquiry, Whether this be a <hi>Pſalm</hi> of <hi>Aſaph,</hi> or for <hi>Aſaph;</hi> or whether it were compoſed in the reign of <hi>Jehoſaphat,</hi> or of <hi>David</hi> after the death of <hi>Saul,</hi> would be as vain, as thoſe Cities who ſpent their time to know in which of them <hi>Homer</hi> was born: or as they, Who was the Author of that golden ſentence, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I am ſure this <hi>Pſalm</hi> was calculated for the Meridian of <hi>Iſrael,</hi> and may ſerve for <hi>England,</hi> or any other Nation in the world. A <hi>Pſalm</hi> of much uſe, and in much uſe among the Jews, when their <note place="margin">Fab. <hi>in loc.</hi>
+               </note> Judges rode Circuit, and ſate in Judicature.</p>
+            <p>This <hi>Pſalm</hi> may fitly be ſtiled and titled, <hi>The Judges Charge.</hi>
+            </p>
+            <p>Where you have the Prophet the Crier to call the Court, and the holy Ghoſt the Judge that gives the Charge: As Judges give their Charge to men, ſo God gives his Charge to Judges; and as Judges expect men ſhould attend to their Charge, ſo God expects Judges ſhould attend to his Charge. And indeed this is a pretious and profitable Charge, which might as well be written over our places of publick Judica<g ref="char:EOLhyphen"/>ture in letters of gold, as thoſe Verſes are in <hi>Zant:</hi>
+            </p>
+            <l>Hic locus odit, amat, punit, obſervat, honorat,</l>
+            <l>Nequitiam, pacem, crimina, jura, bonos.</l>
+            <pb n="2" facs="tcp:62317:5"/>
+            <p> It would be profitable to the Judges to have this <hi>Pſalm</hi> ſung before them alwaies, before they go to their Judica<g ref="char:EOLhyphen"/>tories. <hi>Sim. de Muiz.</hi>
+            </p>
+            <p>It is worthy to be learned of all Magiſtrates, and to be put in all publick places of Judgement. <hi>Fab. in loc.</hi>
+            </p>
+            <p>But <hi>Vino vendibili—</hi>why ſhould I hang out a buſh, when the Wine ſufficiently commends it ſelf.</p>
+            <p>In the <hi>Pſalm</hi> are theſe three parts obſervable:</p>
+            <list>
+               <item>1. <hi>Ratio,</hi> an Introductory reaſon.</item>
+               <item>2. <hi>Oratio,</hi> an Exhortatory oration.</item>
+               <item>3. <hi>Peroratio,</hi> a Concluſory praier.</item>
+            </list>
+            <p>Firſt, An Introductory reaſon, by way of preamble, to aw and amaze the hearts of Judges; <hi>verſ.</hi> 1. <hi>God ſtands in the Congregation of the mighty:</hi> and he is <hi>preſens</hi> and <hi>praeſes,</hi> a God preſent, yea the Lord Preſident of all your Courts and Counſels: He is <hi>Judex,</hi> and <hi>Vindex,</hi> Judge Paramount, who will certainly and ſeverely judge the Judges. If Father <hi>Latymer</hi> was circumſpect what he anſwered, becauſe he heard a pen ſcratch behind the hangings, how much more circumſpect ought all Judges to be of what they ſay or do, becauſe there is ever one in the midſt of them, that writes down with a pen of a diamond, all their acts, decrees, orders, judgements.</p>
+            <p>Secondly, The Hortatory oration. <hi>Concio ad Magi<g ref="char:EOLhyphen"/>ſtratum.</hi> Wherein are three things:</p>
+            <list>
+               <item>1. A ſevere increpation of corruptions in their judging.</item>
+               <item>2. A ſerious perſwaſion to righteous judging.</item>
+               <item>3. A ſad demonſtration, or relation of the miſerable effects that followed evil judging.</item>
+            </list>
+            <p n="1">1. A ſevere increpation of their corruptions in judging, aggravated by their duration, and obduration in this ſinne, <hi>verſ.</hi> 2. <hi>How long will ye judge unjuſtly: Quouſque tandem Catilina.</hi>
+            </p>
+            <p n="2">2. A ſerious perſwaſion to righteous judging, <hi>verſ.</hi> 3. <hi>Defend the poor and fatherleſſe; do juſtice to the afflicted and needy.</hi> verſ. 4. <hi>Deliver the poor and needy; rid them out of the hand of the wicked.</hi>
+            </p>
+            <p n="3">3. A ſad demonſtration, or relation of the miſerable effects
+<pb n="3" facs="tcp:62317:5"/> of injuſtice uſher'd in with a new complaint by way of admi<g ref="char:EOLhyphen"/>ration, <hi>v.</hi> 5. <hi>They know not, neither will they underſtand, they walk on in darkneſs;</hi> though the unjuſt judgements of thoſe gods had brought the juſt judgements of God upon the Land, yet they are wofully blinde, they know not, they are wilfully blinde, they will not underſtand, they are wret<g ref="char:EOLhyphen"/>chedly blinde, they go on in perverting juſtice. All the foun<g ref="char:EOLhyphen"/>dations of the earth are out of courſe, let them be. <hi>Poetica conceſſio. Geneb:</hi> Though all lawes and orders be violated, Eſtates diſturbed, Parliament priviledges deſtroyed, Subjects liberties infringed, all things brought to confuſion, yet they weigh it not, value it not; they have that ſtands <hi>clypei loco. Marl:</hi> they are armed with a <hi>Jus Divinum;</hi> they are <hi>vi<g ref="char:EOLhyphen"/>carij Dei,</hi> they who reſiſt their laws, or rather their luſts, ſhall commit <hi>crimen laeſae Majeſtatis.</hi> This inſolency is aba<g ref="char:EOLhyphen"/>ſed in the 6 and 7. <hi>v. I have ſaid you are Gods,</hi> &amp;c. Its true, the power you have is from God, and it ſhould be as true, the power you have ſhould be for God. But let me whiſ<g ref="char:EOLhyphen"/>per in your eares, as you whiſper in your hearts, <hi>Ye ſhall dye like men, and fall as one of the Princes:</hi> i. e. your places ſhall not be Targets to defend you againſt judgement, but traps to let you fall lower into judgement.</p>
+            <p>And thus having ended his Sermon to the Judges with little ſucceſſe; for he did but <hi>ſurdo fabulam,</hi> he makes his appeale and application to the ſupream Prince; which brings me to the third part.</p>
+            <p n="3">3. The concluſory prayer, <hi>v.</hi> 8. <hi>Ariſe, O God, judge thou the earth; for thou ſhalt poſſeſſe all Nations;</hi> i. e. Lord take to thy ſelfe thy power, ſupply thine own place, and turne them out of the Courts of Juſtice, who turne Juſtice out of their Courts.</p>
+            <p>My text is that part of the Pſalme which anſwers that ſe<g ref="char:EOLhyphen"/>cret objection that lyes and lurks in the breaſts and boſomes of Rulers, <hi>viz.</hi> their pattent from heaven for their places, and therefore they thinke they may act any thing in their places, though it be againſt heaven. Its true, as it ſhews a pattent from heaven for the places of Judges, ſo alſo it ſhews a pattent for places in hell for unjuſt Judges.</p>
+            <pb n="4" facs="tcp:62317:6"/>
+            <p> The words are the Judges Commiſſion from his Highnes the Lord Protector of heaven and earth.</p>
+            <p>Wherein obſerve three parts.</p>
+            <list>
+               <item>1. A deputation to their places.</item>
+               <item>2. A computation for their times.</item>
+               <item>3. An imputation of their crimes.</item>
+            </list>
+            <list>
+               <item>1. Shews their dignity.</item>
+               <item>2. Shews their death.</item>
+               <item>3. Shews their damnation.</item>
+            </list>
+            <list>
+               <item>1. A deputation to their places, <hi>I have ſaid you are Gods.</hi>
+               </item>
+               <item>2. A computation of their time; they are not eternall; though they are Gods, they ſhall live no longer then men, they muſt dye as men, both for time and manner.</item>
+               <item>3. The imputation of their crimes which they have com<g ref="char:EOLhyphen"/>mitted, as of bribery, extortion, and having reſpect of per<g ref="char:EOLhyphen"/>ſons, <hi>and fall as one of the Princes.</hi>
+               </item>
+            </list>
+            <p>From theſe three parts ariſe three Propoſitions.</p>
+            <p>Doct. 1. <hi>That Judges, Rulers, Magiſtrates, are Gods on earth.</hi>
+            </p>
+            <p>Doct. 2. <hi>Though they are Gods on earth, yet they are but Gods of earth.</hi>
+            </p>
+            <p>Doct. 3. <hi>That if Gods on earth, and of earth, neglect to doe their duty, they ſhall be damned among Devils in hell.</hi>
+            </p>
+            <p>I have three ſubjects, every one of which would afford copious matter for a Sermon, but my intention is to ſpeake a little to all, and but a little; it being done to my Sermon, as the Lord Admirall was wont to doe to rebels in revolted Ships, turne the glaſſe on them, and if they came not in within the houre, they muſt be cut off; and ſo muſt my Sermon. I ſhall therefore doe as Marriners who have a long voyage, and but a ſhort time, as alſo many Ports to call in at, only touch and be gone, reſerving the chiefeſt time for the Port wherein I am to liver my lading by applica<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Doct. 1. <hi>Magiſtrates and perſons in high places of au<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rity, are gods on earth. I have ſaid,</hi> one whoſe <hi>hath ſaid</hi> is
+<pb n="5" facs="tcp:62317:6"/> more authentick then <hi>Pythagoras</hi> his <hi>ipſe dixit.</hi>
+            </p>
+            <p>In the proſecution of which point, I ſhall follow that golden rule of <hi>Ariſtotle,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="1">1. I will ſhew you Negatively, what gods they are not.</p>
+            <p n="2">2. Affirmatively; what gods they are.</p>
+            <p n="3">3. How they are ſtiled gods.</p>
+            <p n="1">1. What gods they are not.</p>
+            <p n="1">1. They are not <hi>Dij fictitij,</hi> feigned gods, as <hi>Apollo</hi> the god of wiſdome, <hi>Mars</hi> of warre, <hi>Pan</hi> of ſheep, <hi>Nep<g ref="char:EOLhyphen"/>tune</hi> of the Sea, and <hi>Bacchus</hi> of wine; of which <hi>Heſiod</hi> reckons up thirty thouſand: the vanity of which a Heathen <note place="margin">Cic: lib. de nat: deorum.</note> does ſufficiently manifeſt; for the oppoſing of which <hi>So<g ref="char:EOLhyphen"/>crates</hi> ſuffred death. Which I conceive, the Apoſtle intends when he ſayes, 1 <hi>Cor.</hi> 8. 5. <hi>There are gods many, and Lords many.</hi>
+            </p>
+            <p n="2">2. Not <hi>dij factitij,</hi> or <hi>manufacti,</hi> gods made by the hands and heads of men, as Idols are. <hi>Pſal.</hi> 115. 4, 5, 6. 7. <hi>Their idols are ſilver and gold, the work of mens hands, they have mouths, but they ſpeak not,</hi> &amp;c. Their idols were their gods; <hi>Why hast thou ſtolne away my gods,</hi> ſaid <hi>Laban</hi> to <hi>Jacob</hi> about his idols, <hi>Gen.</hi> 31. 30. 32. Pretty gods that could not keep themſelves from the theeves.</p>
+            <p n="3">3. Not <hi>dij uſurpantes,</hi> intruding gods, who aſſume this name and honour to themſelves, which is no way their due: as the Devil is cal'd <hi>the god of this world,</hi> 2 Cor. 4. 4. not that he is ſo properly, but that he would be ſo accounted, though by uſurpation; he is cal'd ſo, <hi>a ſuperbia, quia hunc ſibi honorem arrogat &amp; vult adorari ut deus,</hi> Zanch: <hi>Mat.</hi> 4. 9. <hi>All theſe will I give thee, if thou wilt fall down and worſhip me;</hi> it was the Devils ambition to be exalted a god in heaven above God, and it was his impudence to be adored the god of the earth by the Son of God.</p>
+            <p n="4">4. Not <hi>dij ſenſuales;</hi> Belly gods; <hi>Whoſe God is their bel<g ref="char:EOLhyphen"/>ly,</hi> Phil. 3. 19. that dung-hill deity hath too many wor<g ref="char:EOLhyphen"/>ſhippers; as <hi>Polyphemus</hi> in <hi>Euripides, Se tantum offerre victimas ventri ſuo, qui maximus eſſet deorum, Epicurus de Grege Porci, Pamphagus, Nabal, Dives.</hi>
+            </p>
+            <p n="5">
+               <pb n="6" facs="tcp:62317:7"/> 5. Not <hi>dij reales,</hi> reall and true Gods; ſuch as have a bleſſed and divine nature, attended with thoſe glorious pro<g ref="char:EOLhyphen"/>perties, of eternity, immenſity, ubiquity, omniſciency, &amp;c. for ſo only is God himſelfe. <hi>Iſai.</hi> 44. 6. <hi>I am the first and the last, and beſide me there is no God.</hi> 1 Cor. 8. 6. <hi>But to us there is but one God.</hi>
+            </p>
+            <p n="2">2. What gods they are; they are <hi>dij mortales &amp; caduci,</hi> mortall, earthly, periſhing gods; even ſuch gods as the <hi>Ly<g ref="char:EOLhyphen"/>caonians</hi> ſuppoſed <hi>Paul</hi> and <hi>Barnabas</hi> to be, <hi>Act.</hi> 14. 11. <hi>gods in the likenes of men;</hi> or if you pleaſe, men in the like<g ref="char:EOLhyphen"/>nes of God: but more of this when I come to the ſecond point.</p>
+            <p n="3">3. How they are gods?</p>
+            <p>Seven wayes.</p>
+            <p n="1">1. <hi>Adoptivè;</hi> ſo <hi>Bonav: God adopts them to be his ſons.</hi> v. 6. <hi>And all of you children of the moſt High.</hi>
+            </p>
+            <p>
+               <hi>Chara Deúm ſoboles, magnum Jovis incrementum,</hi> Virg: adopted they are to place and power, though not alwayes to grace and holineſs.</p>
+            <p n="2">2. <hi>Analogicé;</hi> ſo <hi>Theod:</hi> by way of analogy, <hi>tanquam in hoc deum imitantes;</hi> as God hath his ſeat of judgment in hea<g ref="char:EOLhyphen"/>ven, ſo theſe their ſeats and judiciall thrones on earth, where they judge the actions of men.</p>
+            <p n="3">3. <hi>Nuncupativè;</hi> ſo <hi>Greg:</hi> they have the titles and ap<g ref="char:EOLhyphen"/>pellations of gods; God ſtamps a name of his own upon them: it was an honour to <hi>Joſephs</hi> ſon, that <hi>Jacob</hi> put his name on him, <hi>Gen.</hi> 48. 16. much more for Magiſtrates that God puts his name on them, his Elohim, not his Jehovah.</p>
+            <p n="4">4. <hi>Repraeſentativè;</hi> ſo <hi>Aug:</hi> they reſemble and repreſent the image of God, <hi>Gerunt imaginem dei:</hi> the very Heathen could ſee ſo much divine glory in the face of a Magiſtrate, that he ſtiled him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the living image of the ever-living God: they are (to uſe <hi>Nazianzens</hi> expreſſi<g ref="char:EOLhyphen"/>on) pictures drawn of God; every Magiſtrate, though in never ſo low a place, beares the image of God; a peny beares the image of the Prince as well as a ſhilling.</p>
+            <p n="5">5. <hi>Authoritativè;</hi> they are ordained, appointed, autho<g ref="char:EOLhyphen"/>rized to be Gods. If any ſue Magiſtrates with a <hi>Quo warran<g ref="char:EOLhyphen"/>to,</hi>
+               <pb n="7" facs="tcp:62317:7"/> or upbraid them with a <hi>Quis vas fecit judices,</hi> they have good authority to ſhew, they have a Pattent under Chriſts broad Seale for it. <hi>Pro.</hi> 8. 15, 16. <hi>By me Kings reigne and Princes decree juſtice;</hi> by me Princes rule and Nobles, and all the Judges of the earth, <hi>i. e.</hi> God the Father hath made over unto me all the powers and governments in the world; I have the diſpoſall of them all, I appoint ſuch governments and governours. <hi>Pſal.</hi> 75. 6. <hi>For God is Judge, he putteth down</hi> (one government and governour) <hi>and ſetteth up ano<g ref="char:EOLhyphen"/>ther.</hi> This truth the Apoſtle fully cleares and confirmes, <hi>Rom.</hi> 13. 1, 2. <hi>Let every ſoul be ſubject to the higher powers; for there is no power, but of God; the powers that be are ordai<g ref="char:EOLhyphen"/>ned of God.</hi> V. 2. <hi>Whoſoever reſiſteth the power, reſiſteth the ordinance of God. Beza</hi>'s note on this Text is ſingular; I grant that <hi>Paul</hi> doth yield that God is the Author of go<g ref="char:EOLhyphen"/>vernment; but why doth he adde (when he had ſaid, <hi>no power but is of God) the powers that are, are ordained of God.</hi> To which he anſwers, I thinke not only the thing it ſelfe, and the power of Magiſtrates is from God in generall, but alſo the ſeverall degrees of Magiſtrates, and the diſtributions of Dignities are from him in particular: He gives the reaſon of all; <hi>
+                  <g ref="char:V">Ʋ</g>t infimis ordinibus parendum eſſe ſciamus.</hi>
+            </p>
+            <p n="6">6. <hi>Miniſterialiter;</hi> they doe <hi>ſupplere vices dei,</hi> they are his vice-royes and vice-gerents. 2 <hi>Chron.</hi> 19. 6. <hi>Jehoſaphat</hi> tels his Judges, that they judged not for men but for the Lord: and in <hi>Rom.</hi> 13. 4, 6. they are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="7">7. <hi>Participativè;</hi> God imparts, and they participate of the common gifts of the Spirit, whereby they are abundant<g ref="char:EOLhyphen"/>ly qualified for government; as the Sun, the <hi>Primum Lu<g ref="char:EOLhyphen"/>cidum,</hi> communicates his raies of light to the Starres, ſo does God to his ſubſtitutes: this we finde in the Elders, <hi>Num.</hi> 11. 17. And likewiſe in <hi>David</hi> after <hi>Samuel</hi> had a<g ref="char:EOLhyphen"/>nointed him with the horne of oyle, 1 <hi>Sam.</hi> 16. 13, 14. But above all in <hi>Solomon,</hi> 1 Kings 3. 12. <hi>Behold I have done according to thy word: loe, I have given thee a wiſe and under<g ref="char:EOLhyphen"/>ſtanding heart, ſo that there was none like thee before thee, neither after thee ſhall any ariſe like to thee:</hi> He had large
+<pb n="8" facs="tcp:62317:8"/> powrings out of the ſpirit of government: <hi>Nazianzen</hi> gives this large commendation of <hi>Solomon,</hi> that he had <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, largeneſſe of heart, more copious then the ſand of the ſea-ſhore; witneſſe that unparrellel'd deciſion of the true mother, 1 <hi>Kings</hi> 13. 16, to the 28. in which verſes you may ſee how all <hi>Iſrael</hi> upon the judgemen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> feared the King, for they ſaw the wiſdom of God was in him to do judgement.</p>
+            <p>Doct. 2. <hi>That Magiſtrates, though they are Gods on earth, yet they are but Gods of earth:</hi> they are not immortal Deities, neither have they everlaſting Godheads. Thoſe Gods, as they had a beginning, ſo they muſt have an end. <hi>Quicquid oritur, moritur;</hi> there is a <hi>Mene, Mene,</hi> on them, their daies are numbred, their time is computed: <hi>Hercules</hi> his pillar ſtands in their way, <hi>Non datur ultra.</hi> You ſhall die as <hi>Adam.</hi>
+            </p>
+            <p n="1">1. As <hi>Adam</hi> ſignifies the proper Name of the firſt man; though he had a <hi>poſſe non mori,</hi> yet he came to a <hi>non poſſe non mori</hi> at laſt, <hi>Janſ.</hi> As ſure as <hi>Adam</hi> the firſt man died, ſo ſhall all men that come from his loins.</p>
+            <p n="2">2. As <hi>Adam</hi> ſignifies a moſt vile and abject perſon, <hi>Geneb. in loc.</hi> they ſhall die as the meaneſt and vileſt perſons. I ſhall not now ſtand to ſhew you how they ſhall die; but this is moſt true, as certainly as men ſhall die, ſo certainly ſhall Judges die as men. <hi>Alexander</hi> flaterred by others, and his <note place="margin">Plut. <hi>in vit.</hi> Alex.</note> own heart alſo, yet came to this at laſt, <hi>Haec ſagitta probat me eſſe mortalem.</hi>
+            </p>
+            <p>
+               <hi>Heb.</hi> 9. 27. <hi>Statutum eſt:</hi> Magiſtrates and Judges die by a Statute Law never to be repealed or reverſed. Every Ma<g ref="char:EOLhyphen"/>giſtrate, as well as every man, when he hath acted his part on the Stage of this world, ſhall have his <hi>exit.</hi> The Preacher tels us that death is the end of all men, <hi>Eccleſ.</hi> 7. 2. and <hi>Job</hi> tels us that Kings, Counſellors and Princes, that had gold, as well as others, are lodged in the withdrawing cham<g ref="char:EOLhyphen"/>ber of the grave, <hi>Job</hi> 14. <hi>ad</hi> 20. yea <hi>Job</hi> himſelf a Judge, and a righteous one to, ſaies, he <hi>knew God would bring him to death, and to the houſe appointed for all living,</hi> Job 30. 23. Very true is that of the Poet,</p>
+            <pb n="9" facs="tcp:62317:8"/>
+            <l> Scilicet omne ſacrum, mors importuna profanat, <note place="margin">
+                  <hi>Ovid.</hi> 3. <hi>Amor.</hi> 8.</note>
+            </l>
+            <l>Omnibus obſcuras injicit illa manus.</l>
+            <p>Doct. 3. <hi>That thoſe Gods of earth that have not faithfully diſcharged their truſt, done their duties, ſhall be caſt down a<g ref="char:EOLhyphen"/>mong the devils in hell to be tormented. And fall like one of the Princes:</hi> There are three ſeveral Readings or Expoſitions given of the words.</p>
+            <p n="1">1. Like the <hi>Anakims</hi> the ſons of <hi>Enoch,</hi> who were of vaſt, huge, ſtrong bodies, whom <hi>Joſhua</hi> ſlew, Joſh. 11. 21. ſo <hi>Janſen.</hi>
+            </p>
+            <p n="2">2. Like one of the tyrants, as <hi>Sennacherib, Antiochus, Herod, Nero, Julian,</hi> &amp;c. according to that,</p>
+            <l>Ad generum Cereris ſine caede, &amp; ſanguine pauci <note place="margin">Juven. ſat.</note>
+            </l>
+            <l>Deſcendunt reges, &amp; ſicca morte tyranni.</l>
+            <p>Some ſingular judgement not uſual or common to ordi<g ref="char:EOLhyphen"/>nary men. <hi>Muſc.</hi>
+            </p>
+            <p n="3">3. But the ſtream of Interpreters (as <hi>Aug. Hier. Theod. Baſil. Chryſoſt. Genebrard. Arnob.)</hi> runs thus, They ſhall fall as one of the Princes of the devils; who being Gods in heaven, abuſing their places by their pride, were caſt down from the top of heaven, to the bottom of hell: 2 <hi>Pet.</hi> 2. 4. <hi>He spared not the Angels that ſinned,</hi> but threw them down to hell: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a word borrowed from the Heathen, to ſet forth the greatneſſe and grievouſneſſe of their torments, <hi>Ad paenas tartareas damnavit,</hi> Mede.</p>
+            <p>Thoſe that have had the higheſt places on earth (if they have abuſed them) ſhall have the loweſt places in hell. Wicked Magiſtrates ſhall get nothing by their greatneſſe, but greater puniſhments. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Greatneſſe of place abuſed, will produce greatneſſe of pu<g ref="char:EOLhyphen"/>niſhment. <hi>Ingentia beneficia, ingentia flagitia, ingentia ſup<g ref="char:EOLhyphen"/>plicia,</hi> 
+               <note place="margin">
+                  <hi>Eccleſ. Hiſt. Magd. cent.</hi> 5. <hi>Baſil</hi> 1569. <hi>Epiſt. Ded. in initio.</hi>
+               </note> great mercies, great ſins, and great puniſhments, are mutually twiſted together. <hi>Iſa.</hi> 30. 33. <hi>Tophet is ordained of old, yea for the King it is prepared, he hath made it deep and large; the pile thereof is fire and much wood, the breath of the Lord like a ſtream of brimſtone doth kindle it:</hi> The Holy
+<pb n="10" facs="tcp:62317:9"/> Ghoſt hints in theſe words two things;</p>
+            <p n="1">1. That hell is principally and on purpoſe prepared for great perſons, as Princes and Judges.</p>
+            <p n="2">2. That the greateſt puniſhments in hell are prepared for the greateſt perſons: So that I may ſafely conclude with that uſual ſaying, <hi>Hell is paved with Prieſts skuls, and Prin<g ref="char:EOLhyphen"/>ces headpieces.</hi> Magiſtrates and Miniſters that have been evil, ſhall have the loweſt places, the hotteſt holes in hell, among the worſt of devils.</p>
+            <p>I ſhall now come to apply theſe three Doctrines:</p>
+            <list>
+               <item>1. By way of Information.</item>
+               <item>2. Of Exhortation.</item>
+            </list>
+            <p>Firſt, By way of Information to three ſorts;</p>
+            <list>
+               <item>1. Miniſters.</item>
+               <item>2. People.</item>
+               <item>3. Magiſtrates.</item>
+            </list>
+            <p n="1">1. It informs Miniſters, that it is a duty incumbent on us, to put people in minde of this truth, and that very often, that Magiſtrates are Gods; though not <hi>participatione divi<g ref="char:EOLhyphen"/>nae eſſentiae,</hi> yet <hi>ſimilitudine divinae potentiae,</hi> and therefore alwaies to preſſe them to render obedience and ſubjection to them, though they have no right to their places, or do no right in their places. <hi>Titus</hi> 3. 1. <hi>Put them in minde to be ſubject to principalities and powers,</hi> to obey Magiſtrates: There were many in <hi>Crete</hi> infected with the leven of <hi>Judas Galilaeus,</hi> who denied any honour or homage due to Magi<g ref="char:EOLhyphen"/>ſtrates; and that which moſt incouraged them was, that they were Heatheniſh and Helliſh Magiſtrates: all which <hi>Paul</hi> well knew, and notwithſtanding he cals on <hi>Titus</hi> to call on the people to give them their due: Though Magiſtrates do not their duties to people, yet people muſt do their duties to Magiſtrates. We Miniſters muſt often ſtrike upon this ſtring, though it be a jarring one, and very offenſive to peoples ears. <hi>Iſa.</hi> 62. 6. Miniſters are called the Lords re<g ref="char:EOLhyphen"/>membrancers, not only to put God in mind of his mercy, but alſo to put the people in mind of their duty. I hope this may be a ſufficient Apology for my Text and Treatiſe.</p>
+            <p n="2">2. It informs Miniſters how they ſhould ſpeak of Magi<g ref="char:EOLhyphen"/>ſtrates, high or low, <hi>viz.</hi> with reverence and reſpect, even as Gods Ordinance, yea as of Gods: We may reprove them, but we may not reproach them; farre be from us
+<pb n="11" facs="tcp:62317:9"/> 
+               <hi>(Tribunitii clamores)</hi> invectives againſt them to pleaſe the fancies, and tickle the itching ears of the rude multitude. <hi>Exod.</hi> 22. 28. <hi>Thou ſhalt not revile the Gods, nor ſpeak evil of the ruler of thy people:</hi> Its a charge given Miniſters as well as others. It is put down as the mark of dreamers, <hi>to deſpiſ<g ref="char:EOLhyphen"/>dominion, and ſpeak evil of dignities,</hi> Jude 8. Such were the <hi>Nicolaitans,</hi> and the <hi>Gnoſticks.</hi> Truly, for my part, I ſhould much doubt whether they are Miniſters of Chriſt, that dare ſpeak reproachfully of the Magiſtrates of Chriſt.</p>
+            <p n="3">3. It informs Miniſters, as how to ſpeak of, ſo how to ſpeak to Magiſtrates, <hi>viz.</hi> with humble and honourable ad<g ref="char:EOLhyphen"/>dreſſes to ſpeak to them; not only (as he) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with ſilken words, but with ſugred words, not ſawcy and ſurly ſpeeches: <hi>Job</hi> 34. 18. <hi>Is it fit to ſay to a King, thou art wicked? and to Princes, you are Belial? Thou,</hi> (that Quakers word) argues too much rudeneſſe: <hi>Belial,</hi> that prophane word, argues too much raſhneſſe. The Silk<g ref="char:EOLhyphen"/>worm bragged ſhe caught Princes and great perſons with what came out of her bowels, when the Spider caught no<g ref="char:EOLhyphen"/>thing but flies. <hi>Blanditiis obtinere ſolent, quae autoritate non</hi> 
+               <note place="margin">
+                  <hi>Amb. in</hi> 1 <hi>Tim.</hi> 5. v. 2.</note> 
+               <hi>poſſunt;</hi> Soft and ſweet words are keyes to open the locks of Magiſtrates boſoms. See how thoſe (that were godly to) inſinuated and crept into the hearts of Rulers, <hi>Dan.</hi> 6. 21. <hi>O King live for ever, my God hath ſent his Angel,</hi> &amp;c. <hi>And before thee, O King, have I done no hurt; and the King was exceeding glad.</hi> Act. 26. 25. <hi>ad</hi> 32. <hi>I am not mad moſt Noble Feſtus,</hi> v. 27. <hi>King Agrippa, beleeveſt thou the Prophets, I know that thou beleeveſt: Then Agrippa ſaid unto Paul, al<g ref="char:EOLhyphen"/>moſt thou perſwadeſt me to be a Chriſtian. Luther</hi> pleading before the Emperour, beg'd pardon for his rudeneſſe, as not being acquainted with the tender and delicate ears of Princes and Rulers, by which he obtained much favour.</p>
+            <p n="4">4. Are Magiſtrates Gods by name, but men by nature; it informs Miniſters to take heed of flattery, that politique Idolatry; that <hi>Quicquid libet, licet,</hi> that Magiſtrates luſt <note place="margin">
+                  <hi>Quicquid De<g ref="char:EOLhyphen"/>metrius j<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bet, id<gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> homines ju<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tum &amp; d<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctum.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> is the beſt law; that what Magiſtrates command is juſt with men, and holy with God: Such ſprinklings of Court-holy water, by paraſitical Chaplains, have undone the moſt Ma<g ref="char:EOLhyphen"/>giſtrates
+<pb n="12" facs="tcp:62317:10"/> in the world. Poor <hi>Alexander</hi> ſuffered much this way, who having in his drink ſlain his friend <hi>Clytus,</hi> and being troubled in his conſcience for it, that he could neither eat nor drink three daies together; <hi>Anaxarchus</hi> the Philo<g ref="char:EOLhyphen"/>ſopher to comfort him, ſpake flatteringly, <hi>The Ancients placed Juſtice by Jupiter,</hi> to intimate that whatever <hi>Jupiter</hi> did, muſt needs be juſt; and therefore whatever ſo great a King as thou art, doeſt, ought to be eſteemed juſt; firſt, by <note place="margin">Q. Curtius.</note> thy ſelf, then by all others. It coſt <hi>Ahab</hi> his life, and per<g ref="char:EOLhyphen"/>haps his ſoul, the falſe and flattering Prophets advice to go up to <hi>Ramoth Gilead,</hi> with the promiſe of proſperity and victory, 1 <hi>Kings</hi> 22. 6. How much more commendable was <hi>Elijah,</hi> who told <hi>Ahab</hi> the truth, when he had killed <hi>Na<g ref="char:EOLhyphen"/>both,</hi> and took poſſeſſion of his vineyard, 1 <hi>Kings</hi> 21. 19. <hi>In the place where dogs<g ref="char:punc">▪</g> licked the blood of Naboth, ſhall dogs lick thy blood, even thine:</hi> Or <hi>John Baptiſt,</hi> who told <hi>Herod</hi> plainly, <hi>it was not lawfull for him to have his brother Philips wife,</hi> Mark 6. 18. though it coſt him his head: Or <hi>Ambroſe,</hi> who tartly reproved <hi>Theodoſius</hi> for his ſins, and took away his vain excuſe of <hi>Davids</hi> example, with a <hi>Quem ſequutus es errantem ſequere paenitentem.</hi> Oh let us tell them that Juſtice ought to be the rule of their wils, and not their wils the rule of Juſtice: That the people ſhould grow rich by them, and not they grow rich by the people: That if they do worſe then their predeceſſors, that God will do worſe with them then with their predeceſſors. In a word, that God will deal ſeverely with them, that have not dealt ſincere<g ref="char:EOLhyphen"/>ly with their God.</p>
+            <p n="2">2. Information, To the people.</p>
+            <p n="1">1. It informs the people the Divine original of Magiſtracy: Government of men over men is from God; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <note place="margin">Hom. Iliad. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Tenendum eſt illud principium Magiſtratûs officium eſſe a Deo,</hi> Calv. <hi>in</hi> 1 <hi>Tim. cap.</hi> 2. 10. <hi>Joh.</hi> 34. 35. <hi>Is it not written in your law, I ſaid ye are Gods? If he called them Gods, to whom the word of the Lord came, (Cui venit ſpeciale dominandi mandatum)</hi> An expreſſe Commiſſion from hea<g ref="char:EOLhyphen"/>ven for ſome men to Rule on earth, Surely then blaſphe<g ref="char:EOLhyphen"/>mous is the aſſertion of Anabaptiſts and Socinians, that
+<pb n="13" facs="tcp:62317:10"/> Magiſtracy is from the devil. And groſſely erroneous is the opinion of the Papiſts, who according to <hi>Aquinas,</hi> affirm <hi>Dominium eſſe jure humano:</hi> It is a ſtrange riddle how the Pope ſhould be <hi>Jure Divino,</hi> and the Emperour who made him ſo, ſhould be but <hi>Jure humano.</hi>
+            </p>
+            <p n="2">2. It informs the people, how great and grievous a ſinne rebellion againſt the Gods muſt needs be: To walk, yea to warre <hi>Antipodes</hi> againſt Government, or Governours, is as bad as witchcraft, and deſerves as much to be puniſhed by the Judges.</p>
+            <p n="1">I. It is a gyants ſinne; ſuch perſons are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, takers up of arms againſt God. <hi>Rom.</hi> 13. 2. <hi>Whoſoever reſiſteth the power, reſiſteth the ordinance of God.</hi> If thoſe that reſiſt, then much more they that rebell againſt the higheſt Powers, re<g ref="char:EOLhyphen"/>bell againſt the higheſt God.</p>
+            <p n="2">II. It is a ſinne proper to reprobates: <hi>Prov.</hi> 17. 11. <hi>An evil man ſeeketh only rebellion:</hi> And <hi>Sheba,</hi> who ſounded a trumpet to ſtirre up the people to rebell againſt <hi>David,</hi> is cal<g ref="char:EOLhyphen"/>led <hi>a man of Belial,</hi> 2 Sam. 20. 1.</p>
+            <p n="3">III. It is a ſinne God hath ſeverely puniſhed, even in this life; as in <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> Numb. 16. 32. an unheard of puniſhment, to ſhew how grievouſly God is offended with rebels; ſad judgements we reade came on <hi>Athaliah, Abſalom, Zimri, Sheba</hi> for this ſin.</p>
+            <p n="4">IV. It is a ſinne for which God will certainly damn men, (if they do not repent) <hi>Rom.</hi> 13. 2. <hi>And they that reſiſt, ſhall receive to themſelves damnation:</hi> Let Atheiſts, Papiſts, Le<g ref="char:EOLhyphen"/>vellers, Quakers, and ſuch like, of the devils litter, reſiſt au<g ref="char:EOLhyphen"/>thority, but let no people fearing God. Rebellion is no fruit of the Goſpel; it is an apple of ſpiritual <hi>Sodom,</hi> (which like <hi>Sodom</hi> apples, toucht with the mouth, fill it with cin<g ref="char:EOLhyphen"/>ders and aſhes.) I ſpeak the more, that we may never have any more <hi>Sheba's</hi> to blow the trumpet of rebellion amongſt us; but let us render unto Magiſtrates due obedience, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the good as God, the bad for God; as <hi>Baſil</hi> gives ſweet and ſavory advice.</p>
+            <p n="3">3. It informs the people, that ſeeing Magiſtrates are but dying, periſhing men, how vain they are who build all their
+<pb n="14" facs="tcp:62317:11"/> hope and happineſſe in being in their favour: Alas they that build their hopes on Magiſtrates, are like thoſe who build houſes on mud-wals, which will certainly lay the build<g ref="char:EOLhyphen"/>ing in the durt. <hi>Pſal.</hi> 146. 3, 4. <hi>Put not your trust in Prin<g ref="char:EOLhyphen"/>ces, nor in the ſon of man, in whom there is no help, his breath goeth forth, he returneth to his earth.</hi> Iſa. 2. 22. <hi>Ceaſe ye from man, whoſe breath is in his noſtrils, for wherein is he to be ac<g ref="char:EOLhyphen"/>counted of?</hi>
+            </p>
+            <p n="4">4. Shall wicked Magiſtrates be ſent among devils, let this inform the people, not to envy the pomp, power, proſpe<g ref="char:EOLhyphen"/>rity of ſuch perſons; they are dealt withall by God, as the cockles are by the Eagles,</p>
+            <l>—tolluntur in altum,</l>
+            <l>
+               <g ref="char:V">Ʋ</g>t lapſa graviore ruant.</l>
+            <p>To make them the better prey. Could you ſee where <hi>Caligula</hi> were, who wiſhed all <hi>Rome</hi> had but one neck, that he might cut it off with one blow: or <hi>Nero,</hi> who reading that of the Tragedian, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I dead, let every thing be mingled with fire; cried out, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, yea whilſt I live; which he did en<g ref="char:EOLhyphen"/>deavour, ſetting <hi>Rome</hi> on fire in divers places, and ſinging for joy to ſee it burn: ſuch have fire and fury enough; you would not have their places on earth, to have their places in hell.</p>
+            <p n="3">3. Information, to Magiſtrates.</p>
+            <p n="1">1. What good encouragement they have to proceed, both in civil, criminal, and capital cauſes; they have not only Gods Warrant for it, but alſo Gods Word to be with them, 2 <hi>Chron.</hi> 19. 6. <hi>The Lord is with you in the judgement. Deus Nobiſcum,</hi> is encouragement enough to carry you on. <hi>Frederick</hi> Duke of <hi>Saxony</hi> being doubtfull whether he might proceed ſo farre in puniſhment of offences, as to death, be<g ref="char:EOLhyphen"/>ing much diſheartned by Popiſh doctrine, had <hi>Luthers</hi> book <hi>De jure Magiſtratus</hi> put into his hands, which when he had read, and weighed, he lift up his eyes and hands to hea<g ref="char:EOLhyphen"/>ven, bleſſing God he ſaw that ſtate was ſo pleaſing to him, and profitable to men.</p>
+            <p n="2">2. Are Magiſtrates but men? It informs them, how vain
+<pb n="15" facs="tcp:62317:11"/> thoſe conceits of theirs are, that think they are targetted againſt death; Deaths ſpear can ſtrike through thoſe that have the moſt iron ſides. Proud and prophane <hi>Herod</hi> ſwel<g ref="char:EOLhyphen"/>led up with the conceit of an immortal Deity, from the peoples hum and clamour of <hi>vox Dei,</hi> upon his eloquent <note place="margin">
+                  <hi>Qui modo im<g ref="char:EOLhyphen"/>mertales,</hi> &amp;c. <hi>Euſeb.</hi>
+               </note> Oration, yet was ſuddenly eat up with worms, <hi>Acts</hi> 12. <hi>v.</hi> 23. God may ſuddenly, and will certainly bring you to the grave, and cauſe you to remain in the tomb, <hi>Job</hi> 21. 32.</p>
+            <p n="3">3. Information, What great cauſe Magiſtrates have to act preſently and ſpeedily: You are living Gods, yet you are but dying men; you are but Gods <hi>pro tempore,</hi> therefore act <hi>ex tempore.</hi> Eccleſ. 9. 10. <hi>Whatſoever thy band findeth to do, do it with thy might, for there is no work, nor device, nor knowledge, nor wiſdom in the grave, whither thou goeſt.</hi> Act. 13. 36. <hi>David when he had ſerved his generation by the will of God, fell on ſleep;</hi> i. e. <hi>David</hi> was carefull before he died to do the work of his generation: Let this be as good a warning to you, as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, was to <hi>Philip</hi> King <note place="margin">Plut.</note> of <hi>Macedon.</hi>
+            </p>
+            <p n="4">4. Information, Let it acquaint Magiſtrates who are their beſt friends, even thoſe that preſſe and perſwade them to do their duties of Gods, that they may avoid the damnation of devils. I know ſuch Miniſters are lookt upon with a ſquint eye, and are forbid to preach at <hi>Bethel,</hi> Amos 7. 13. they are called the troublers of <hi>Iſrael,</hi> 1 King. 18. 17. are put in<g ref="char:EOLhyphen"/>to priſons, 2 <hi>Chron.</hi> 16. 10. yea often are beheaded, <hi>Mark</hi> 6. 27. yet they are their chiefeſt friends. Thoſe that kept their friends awake in the time of the ſweating ſickneſſe, were the trueſt friends (though they thought them not ſo) for they kept them from death. And reproving <hi>Ambroſe,</hi> was <hi>ſolus dignus Epiſcopi nomine,</hi> as <hi>Theodoſius</hi> ingenuouſly acknowledged.</p>
+            <p n="2">2. <hi>
+                  <g ref="char:V">Ʋ</g>ſe,</hi> Of Exhortation.</p>
+            <list>
+               <item>1. To Magiſtrates.</item>
+               <item>2. To people.</item>
+            </list>
+            <p>1. To Magiſtrates, Are you Gods? then be perſwaded to three things:</p>
+            <list>
+               <item>1. Live as Gods.</item>
+               <item>2. Judge as Gods.</item>
+               <pb n="16" facs="tcp:62317:12"/>
+               <item> 3. Defend as Gods.</item>
+            </list>
+            <p>Firſt, Live as Gods.</p>
+            <list>
+               <item>1. In your Converſations.</item>
+               <item>2. In your Families.</item>
+            </list>
+            <p n="1">1. In your Converſations: Places of Gods, and practiſes of devils, are grievous ſoleciſmes. You are called <hi>Optimates,</hi> becauſe you ſhould be the beſt, and reſemble him who is <hi>Optimus</hi> as well as <hi>Maximus.</hi> Your lives, like Planets, have great influence upon inferiour bodies.</p>
+            <l>—Non ſic inflectere ſenſus</l>
+            <l>Humanos edicta valent, ac vita regentum. <note place="margin">Claud.</note>
+            </l>
+            <p>Magiſtrates lives are looking-glaſſes, by which all their neighbours uſually dreſſe themſelves: And aſſure your ſelves <hi>Auſtins</hi> rule is true, <hi>Magis intuentur quid fecerit Jupiter, quam quid docuerit Plato:</hi> The people more mind what the next Juſtice does, then what the beſt Miniſter ſaies: They more obſerve what the Judge delivers, then what the Preacher. Oh therefore let the graces of God that have been in other gods, as meekneſſe in <hi>Moſes,</hi> uprightneſſe in <hi>Samuel,</hi> holineſſe in <hi>David,</hi> wiſdom in <hi>Solomon,</hi> patience in <hi>Job,</hi> courage in <hi>Nehemiah,</hi> meet in your lives, as in ſo many burning glaſſes, whereby you may warm the hearts of the godly, and burn the hands of the wicked.</p>
+            <p n="2">II. In your Families: Have a care you entertain none but holy perſons into them, and keep up holy duties in them; that the ancient ſalutation may come into faſhion again, <hi>And to the Church that is in thy houſe,</hi> Philem. 2. Good <hi>Jo<g ref="char:EOLhyphen"/>ſhua,</hi> in ſuch a time of liberty and licentiouſneſſe as this is, keeps himſelf and family to the pure ſervice of God, <hi>Joſh.</hi> 24. 15. <hi>I and my houſe will ſerve the Lord. David</hi> makes a publique proteſtation, that his <hi>eyes ſhall be upon the faith<g ref="char:EOLhyphen"/>full of the land, that they may dwell with him; he that walketh in a perfect way ſhould ſerve him:</hi> that <hi>the worker of deceit ſhall not dwell in his houſe:</hi> that <hi>the teller of lies ſhall not tarry in his ſight,</hi> Pſal. 101. 6, 7. <hi>Nicephorus</hi> reports of <hi>Andronicus</hi> the elder, that he was Maſter of ſuch a family, as was the very ſhop of vertue, diſcipline, and all godly exerciſes, and
+<pb n="17" facs="tcp:62317:12"/> therefore was called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Sun of the earth to en<g ref="char:EOLhyphen"/>lighten others: Oh labour to make yours ſo, yea a little heaven.</p>
+            <p>Secondly, Judge as Gods; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp;c. <hi>Juſt. Martyr</hi> proves that you had never been put into Gods place, but to do his work, and in his way. Now God judgeth,</p>
+            <p n="1">1. From an innate principle of affection to juſtice, <hi>Iſa.</hi> 61. 8. <hi>I the Lord love judgement;</hi> ſo ought Judges to exe<g ref="char:EOLhyphen"/>cute juſtice and judgement, from an inward principle of love to them: The wheels of affection within, ſhould cauſe the hand of execution to go without. <hi>Prov.</hi> 21. 15. <hi>It is joy to a just man to do judgement. Titus</hi> was ſo delighted with it, that he was wont to cry, <hi>Amici diem perdidi,</hi> I have loſt that day, wherein he had done no act of juſtice. <hi>Parúm eſt juſtitiam facere niſi &amp; diligas,</hi> Bern. <hi>ad Eug.</hi>
+            </p>
+            <p n="2">2. God judgeth righteouſly, juſtly, <hi>Pſal.</hi> 67. 4. <hi>Thou ſhalt judge the people righteouſly:</hi> Pſal. 119. 75. <hi>I know, O Lord, thy judgements are right,</hi> ſaies <hi>David:</hi> And ſo ac<g ref="char:EOLhyphen"/>knowledged <hi>Mauritius</hi> the Emperour, when <hi>Phocas</hi> had ſlain his wife and children; ſo ought Judges. <hi>Deut.</hi> 16. 20. God gives a ſpecial charge that you ſhould do that which is altogether juſt, <hi>i. e.</hi> pure juſtice, free from any mud; that what the Heathens brag'd of their <hi>Ariſtides,</hi> ſurnamed <hi>Juſtus,</hi> might be as true of every Judge, Juſtice, and Maior in <hi>England;</hi> It were eaſier to turn the Sun out of his courſe, then to turn them out of the courſe of Juſtice.</p>
+            <p n="3">3. God judgeth impartially, 2 <hi>Chron</hi> 19. 7. <hi>For there is no iniquity in the Lord our God, nor reſpect of perſons, nor ta<g ref="char:EOLhyphen"/>king bribes.</hi> Job 34. 19. tels us he <hi>accepts not the perſons of Princes, neither regardeth the rich more then the poor:</hi> which the Heathen could obſerve; and <hi>Phocylides</hi> ſpeaks truly of God:</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>So ought Judges: <hi>Deut.</hi> 1. 17. <hi>Ye ſhall have no respect of perſons in judgement, but ſhall hear the ſmall as well as the great; you ſhall not fear the face of man.</hi> Lev. 19. 15. <hi>Thou ſhalt not favour the perſon of the poor, nor honour the perſon of</hi>
+               <pb n="18" facs="tcp:62317:13"/> 
+               <hi>the mighty.</hi> A Judge ſhould be as the Sun, which ſhines on the beggar as well as the noble; he muſt view the face of the cauſe, and not the face of the perſon. It was a blur to <hi>Ceſar</hi> that <hi>Caſſius</hi> his cauſe was the better, but he muſt de<g ref="char:EOLhyphen"/>ny <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. in vit. Ceſar.</note> 
+               <hi>Brutus</hi> nothing: the poor mans cauſe is the better, but the rich man, neighbour, friend, kinſman muſt not be over<g ref="char:EOLhyphen"/>thrown. <hi>Prov.</hi> 18. 5. <hi>It is not good to accept the perſon of the wicked, to overthrow the righteous in judgement;</hi> there is a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the words, more is implied then ſpoken; <hi>i. e.</hi> it is a very ſordid, ſinfull, ſhamefull thing to be done, they that do it deſerve to be hiſt at in the ſtreets, as they go from their Judicatories.</p>
+            <p n="4">4. God judgeth deliberately, adviſedly, making ſtrict ſcrutiny and diligent ſearch whether the accuſation be ſo, <hi>Gen.</hi> 18. 20, 21. <hi>And the Lord ſaid, becauſe the cry of Sodom and Gomorrah is great, and becauſe their ſin is grievous, I will go down now and ſee whether they have done altogether accord<g ref="char:EOLhyphen"/>ing to the cry of it, which is come unto me, and if not I will know.</hi> Greg. <hi>in loc.</hi> obſerves, that God doth ſpeak thus to teach men, <hi>Ne mala hominum antè praeſumamus credere, quàm probare;</hi> for God cannot deſcend, neither need he ſearch to know, <hi>for all things are naked and open before him, Heb.</hi> 4. 13. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, diſſected, unboweld, anato<g ref="char:EOLhyphen"/>mized.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Heſ. So ought Judges to be very inquiſitive, ſifting, ſearching; they are commanded firſt to examine the thing narrowly, <hi>Deut.</hi> 17. 4. <hi>And if it be told thee, and thou hast heard (of it) and enquired diligently, and behold it (be) true (and) the thing certain, then ſhalt thou bring forth that man, or that wo<g ref="char:EOLhyphen"/>man, and ſtone them with stones, till they die.</hi> This was Judge <hi>Jobs</hi> courſe, <hi>Job</hi> 29. 16. <hi>The cauſe I knew not, I ſearched out, i. e.</hi> the cauſe that was dark, difficult and dubious, he would examine witneſſes, and weigh circumſtances, that he would find <hi>(veritatem in profundo)</hi> the truth in the bottom. It was a great ſtain to <hi>David</hi> that he gave away <hi>Mephiboſheths</hi> living upon the falſe information of <hi>Ziba,</hi> 2 Sam. 16. 2. 3, 4.
+<pb n="19" facs="tcp:62317:13"/> And it's horrible injuſtice (if true) what I have heard of the <hi>Turks,</hi> that they will put a man to death, and then en<g ref="char:EOLhyphen"/>quire whether he juſtly ſuffered: Judges muſt be carefull that Writs of Error be not ſued upon them of this kind.</p>
+            <p n="5">5. God judgeth ſpeedily and ſwiftly, after full know<g ref="char:EOLhyphen"/>ledge of the truth, <hi>Joel</hi> 3. 4. <hi>Swiftly and ſpeedily will I re<g ref="char:EOLhyphen"/>turn your recompence; è veſtigiò,</hi> while you can ſay, what is this. How quick was he with <hi>Sodom</hi> and <hi>Gomorrha,</hi> Gen. 19. How ſpeedy with <hi>Corah</hi> and his complices, <hi>Numb.</hi> 16. So ought Judges, after examination, fall upon execution, and that with expedition. <hi>Ezra</hi> 7. 26. <hi>And whoſoever will not do the Law of thy God, and the Law of the King, let judge<g ref="char:EOLhyphen"/>ment be executed ſpeedily upon him, whether it be unto death, or to baniſhment, or to confiſcation of goods, or to impriſonment. I will early deſtroy all the wicked of the land,</hi> Pſal. 101. 1. <hi>Summo manè,</hi> I will do morning juſtice. <hi>Feſtinantèr,</hi> ſo <hi>Genebrad.</hi> I will haſtily do it. Juſtice ſhall be on the wing; delaies are very dangerous and injurious: To delay Juſtice is worſe ſometimes then to deny juſtice.</p>
+            <p n="6">6. God judgeth valiantly, couragiouſly, he is not afraid of the multitude, or might of malefactors. <hi>The right hand of the Lord doth valiantly,</hi> Pſal. 118. 15. It's right-hand Juſtice which wounds the hairy ſcalps of them that go on in wickedneſſe. You have God challenging as a valiant cham<g ref="char:EOLhyphen"/>pion, <hi>Iſa.</hi> 27. 4. <hi>Who would ſet the briars and thorns in battel againſt me? I would go thorow them, I would burn them toge<g ref="char:EOLhyphen"/>ther.</hi> Gods juſtice againſt ſinners, is as fire to briers and thorns, which eaſily and ſpeedily conſumes them. And this is the reaſon the Holy Ghoſt gives, why the whore of <hi>Babi<g ref="char:EOLhyphen"/>lon</hi> ſhall be ſo irreſiſtably and irrecoverably conſumed, <hi>Be<g ref="char:EOLhyphen"/>cauſe ſtrong is the Lord God who judgeth her,</hi> Rev. 18. 8. So ought Judges to be very valiant and couragious. When <hi>Joſhua</hi> came into the place of Magiſtracy, God laies a charge three times; in the 1. <hi>chap.</hi> 6, 7, 9. on him, to be very cou<g ref="char:EOLhyphen"/>ragious. <hi>Solomons</hi> throne (which is called Gods throne) was ſupported with Lions, to ſhew, that in execution of judgement, Magiſtrates ſhould have the hearts of Lions, of all beaſts the moſt magnanimous. The <hi>Athenian</hi> Judges
+<pb n="20" facs="tcp:62317:14"/> ſate in <hi>Mars</hi> ſtreet, to ſhew they had Martiall hearts, and did not <hi>bear the ſword in vain,</hi> Rom. 13. 4. <hi>Timidi nunquam ſtatuêre trophaea,</hi> cowardly and timorous Judges, will never ſet up monuments of their victories over ſin and prophaneſs. It is very ſad, when we may ſay of our Judges, as the Hea<g ref="char:EOLhyphen"/>then did of Judges in his time, they were very good, <hi>Si audeant, quae ſentiunt,</hi> if they durſt but do what they ought <note place="margin">Cic, <hi>de Mil.</hi>
+               </note> to do.</p>
+            <p>Thirdly, Defend as Gods, the things of God.</p>
+            <list>
+               <item>1. The Book of God.</item>
+               <item>2. The Son of God.</item>
+               <item>3. The Day of God.</item>
+               <item>4. The Ordinances of God.</item>
+               <item>5. The Miniſters of God.</item>
+               <item>6. The People of God.</item>
+            </list>
+            <p n="1">1. Defend and maintain the Book of God, I mean the Scriptures, thoſe <hi>Epiſtolas omnipotentis Dei,</hi> as <hi>Greg<g ref="char:punc">▪</g>
+               </hi> ſtiles them; let not (thoſe two brethren in iniquity) Papiſts and Quakers, dare to ſay, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the great Bible, is a great libell; or call <hi>Evangelium, Aven-gilion,</hi> the Goſpel of life, the Goſpel of a lie; or uſe the ſcoffing phraſe of <hi>Bonners</hi> Chaplain, his <hi>pretty little Gods-book.</hi> Si<g ref="char:EOLhyphen"/>lence thoſe expreſſions of the black Goſpel, the inky Divi<g ref="char:EOLhyphen"/>nity, <hi>&amp;c.</hi> Oh do you own and honour it as a great expreſſi<g ref="char:EOLhyphen"/>on of Gods love to you, and make you expreſſions of your love to that. <hi>Pſal.</hi> 119. 97, 103, 105. <hi>David</hi> through the whole <hi>Pſalm</hi> ſhews large affections to the Word of God. <hi>Corn. à Lapide</hi> reports of <hi>Robert</hi> King of <hi>Sicily,</hi> that he was wont to ſay of the Scriptures to <hi>Petrarch,</hi> that they were dearer to him then his Kingdom, and that if he muſt want one of them, he had rather want his Diadem then the Scriptures. Much ſuch a ſtory doth <hi>Speed</hi> in his Chronicles relate of that Queen of famous memory Q. <hi>Elizabeth,</hi> upon the preſenting of a Bible to her by the City of <hi>London.</hi>
+            </p>
+            <p n="2">II. The Son of God, of whom we may better ſay, then they of <hi>Titus, Delitiae generis humani,</hi> The Saviour of the world, the deſire of Nations, the Head of the Church, the Beloved of the beleevers ſoul; let none ſcoff him with a
+<pb n="21" facs="tcp:62317:14"/> crucified God, but make all to <hi>kiſſe the Son,</hi> Pſal. 2. 12. If you neglect this, ſhall not the Heathen Judges riſe up a<g ref="char:EOLhyphen"/>gainſt you in judgement? I mean the <hi>Athenian,</hi> who put <hi>Socrates</hi> to death, for an irreverent ſpeech concerning their <note place="margin">Plutareh. <hi>in vit. Nic.</hi>
+               </note> gods. How many irreverent, yea irreligious ſpeeches are belched out againſt the only wiſe God, Jeſus Chriſt, 1 <hi>Tim.</hi> 1. 17. and yet our Magiſtrates have no hearts to hate, no hands to puniſh, it were well if they had no houſes to enter<g ref="char:EOLhyphen"/>tain ſuch blaſphemers: All that I ſhall ſay is, conſider what a dreadfull curſe is denounced againſt ſuch men and Magi<g ref="char:EOLhyphen"/>ſtrates, 1 <hi>Cor.</hi> 16. 22. <hi>If any man love not the Lord Jeſus Chriſt, let him be Anathema Maranatha.</hi>
+            </p>
+            <p n="3">III. The Day of God, which is Gods holy day, <hi>Iſa.</hi> 58. 13. the Chriſtians market day for their ſouls, <hi>Iſa.</hi> 55. 1. Chriſts Coronation day, <hi>Rev.</hi> 1. 10. the Beleevers Sabbath, and day of reſt, <hi>Heb.</hi> 4. 9. the <hi>Regina dierum,</hi> as <hi>Ignatius</hi> religiouſly cals it; do not ſuffer that pure day to be ſo pro<g ref="char:EOLhyphen"/>phaned; that pious Miniſters, and godly people may have as juſt cauſe to ſpeak with ſhame and ſorrow (what <hi>Al<g ref="char:EOLhyphen"/>ſtedius</hi> did of the <hi>Germans</hi> Sabbath) it was <hi>dies daemoniacus, non Dominicus,</hi> the day of the devil, according to peoples obſervation of it, and not the day of Jeſus Chriſt. Let <hi>Ne<g ref="char:EOLhyphen"/>hemiahs</hi> example ſpur you up to do your duties, <hi>Neh.</hi> 13. 17, <hi>ad</hi> 23. Give me leave to preſent you with five things from the words.</p>
+            <p n="1">1. He begins with the great ones; the Nobles of <hi>Judah</hi> were not ſo high, but he made the Law to reach them, <hi>verſ.</hi> 17.</p>
+            <p n="2">2. He preſſes them by undeniable arguments, as the judgements their fathers brought upon the Nation, by pro<g ref="char:EOLhyphen"/>phaning the Sabbath, <hi>v.</hi> 18.</p>
+            <p n="3">3. He begins the ſanctification of the Sabbath over night, and makes the people keep in over night, that both pre<g ref="char:EOLhyphen"/>paratory duties might be done, as alſo their bodies refreſh<g ref="char:EOLhyphen"/>ed with ſleep, might be freed from drouziueſſe in the ſervice of God, <hi>v.</hi> 19.</p>
+            <p n="4">4. He ſet his own ſervants as ſpies to ſee how the law was obſerved, <hi>v.</hi> 19.</p>
+            <p n="5">
+               <pb n="22" facs="tcp:62317:15"/> 5. He commanded the Levites to do their duties for the ſanctifying of the Sabbath. Oh that all our Magiſtrates would do likewiſe.</p>
+            <p n="4">IV. The Ordinances of God, thoſe <hi>canales gratiae,</hi> thoſe golden pipes which lye at the ſpring-head of grace, the Lord Jeſus Chriſt, who by them conveighs much of himſelf into the ſoul, <hi>Joh.</hi> 1. 16. Suffer no uncircumciſed <hi>Philiſtines</hi> to poyſon thoſe wels of ſalvation, <hi>Iſa.</hi> 12. 3. Let no Ele<g ref="char:EOLhyphen"/>phants puddle thoſe ſprings, becauſe they cannot endure to ſee their ugly bodies; let them ſee by your practiſe and puniſhment, that the Harts do not more bray after the water-brooks, then your hearts breath after the living God, in the enjoyment of Ordinances, <hi>Pſal.</hi> 42. 1, 2.</p>
+            <p n="5">V. The Miniſters of God, thoſe <hi>legati a latere,</hi> legeir Embaſſadors, that lye to keep peace between heaven and earth, 2 <hi>Cor.</hi> 5. 20. thoſe diſpenſers of myſteries, 1 <hi>Cor.</hi> 4. 1. the Mercuries from heaven that bring you glad tydings, <hi>Rom.</hi> 10. 15. Chriſts Paranymphs and ſpokeſmen to woe and win ſouls to him, <hi>Joh.</hi> 3. 19. In a word, the very ſaviours of your ſouls inſtrumentally, 1 <hi>Tim.</hi> 4. 16. do you ſave them, ſuccour them, ſupport them, ſupply them, do for them, whatever lies in your place and power; it was one of the main ends of the inſtitution of Magiſtrates at firſt, <hi>Exod.</hi> 4. 16. <hi>Thou ſhalt be to him in ſtead of God.</hi> It was a noble ſpeech of a Prince to his Miniſter, <hi>T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me calamo, ego te gla<g ref="char:EOLhyphen"/>dio,</hi> Defend me with thy Pen, and I will defend thee with my Pike. Be you Protectors to us, and we will be Preachers for you, as well as to you.</p>
+            <p n="6">VI. The People of God: Thoſe <hi>Columbae</hi> and <hi>Columnae</hi> of the world, <hi>of whom the world is not worthy,</hi> Heb. 11. 38. The ſaviours of Nations, <hi>Job</hi> 22. 30. the apples of Gods eyes, <hi>Zech.</hi> 2. 8. the Commanders of God, <hi>Iſa.</hi> 45. 11. the glory upon which ſhall be a defence, <hi>Iſa.</hi> 4. 5. Take them to your care, cuſtody, compaſſion: You are called the <hi>ſhields of the earth,</hi> Pſal. 47. 9. that you may ſhelter and ſafeguard Gods <hi>Hephzibahs:</hi> You are nurſing fathers and mothers, <hi>Iſa.</hi> 49. 23. that you ſhould dance Gods darlings in your arms, and dandle them on your knees.</p>
+            <pb n="23" facs="tcp:62317:15"/>
+            <p> Give me leave to back this Uſe of Exhortation with ſome Motives.</p>
+            <p>
+               <hi>Motive</hi> 1. God hath exalted you from very low, to very high places; he hath lifted you up (as nature did <hi>Saul)</hi> higher by the head and ſhoulders then the reſt of your brethren, hath put you into his ſeat, placed his Name on you, called you Gods, commanded all your brethrens ſheaves to bow before you, and obey you, that you may ſay as <hi>Iphicrates</hi> the <hi>Athenian</hi> Captain in all his glory, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from what am I raiſed, to what am I exalted! <note place="margin">Ariſt. <hi>Rhet. lib.</hi> 1. <hi>cap.</hi> 9.</note> May not a little inverſion of <hi>Davids</hi> words agree with you, <hi>Pſ.</hi> 113. 7. <hi>He hath raiſed up the poor out of the dust, and lifted the needy out of the dunghill, and ſet you with Princes, even with the Princes of his people.</hi> Or elſe the words in the <hi>Mag<g ref="char:EOLhyphen"/>nificat,</hi> Luke 1. 52. <hi>He hath put down the mighty from their ſeats, and exalted them of low degree.</hi> What ſtrong engage<g ref="char:EOLhyphen"/>ments are theſe upon you? to exalt him that hath exalted you, to act for him, that hath put you into his place; to improve thoſe talents of place and power, for his intereſt, who hath intruſted you: it would be horrible ingratitude, (as bad as the Jews) thus to requite the Lord, as to ſcoff his Word, crucifie his Son, prophane his day, pollute his Or<g ref="char:EOLhyphen"/>dinances, ſlight his Miniſters, abuſe his people.</p>
+            <p>
+               <hi>Mot.</hi> 2. The great good you might do, if you would live, Judge, defend as Gods; what golden, yea what glorious opportunities and prizes are put into your hands, if God would give you hearts to employ and improve them. If the Magiſtrates of <hi>England</hi> would make Religion their buſineſſe, and not a deſign, how eaſily might they ſup<g ref="char:EOLhyphen"/>preſſe ſin and prophaneſſe, advance the power of godlineſſe, exalt Chriſt and his Ordinances to their place, power and purity, encourage and increaſe thoſe that are ſincere and godly, take off the diſguiſes and vizards of hypocrites: I dare boldly ſay, there is nothing needfull, honourable, credi<g ref="char:EOLhyphen"/>table, comfortable for the bodies, ſouls, eſtates, names, li<g ref="char:EOLhyphen"/>berties, conſciences of the people, but they might eaſily attain it, either by their Precept, Preſident, or Puniſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="1">
+               <pb n="24" facs="tcp:62317:16"/> 1. By Precept: How eaſily might they ſtop the muſe-holes in good Laws, through which drunkards ſwearers, <hi>&amp;c.</hi> do uſe to creep. What holy and wholſom Laws might the Protector with his Parliament make, and ſee obſerved, for ſuppreſſing all manner of looſeneſſe and lewdneſſe, and en<g ref="char:EOLhyphen"/>couraging purity and holineſſe againſt ſcoffers and ſcorners? They might make ſuch Laws as ſhould make the proudeſt and prophaneſt in the Land to ſtoop to their Scepters; and ſo reform Old, that it would become New <hi>England.</hi> How proſperous were the Heathen Magiſtrates, as <hi>Numa, Ly<g ref="char:EOLhyphen"/>curgus, Solon,</hi> in this way of new making their Country; and why might not Chriſtian Magiſtrates be much more? What made the <hi>Iſraelites</hi> be ſo highly eſteemed by the <hi>Ca<g ref="char:EOLhyphen"/>naanites,</hi> for a wiſe and underſtanding people? but the keeping of thoſe righteous Laws and Statutes: And what made the <hi>Iſraelites</hi> keep thoſe good Judgements? but <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> and ſucceeding Magiſtrates, preſſing and perſwading, yea perforcing them to obſerve them, <hi>Deut.</hi> 4.</p>
+            <p n="2">2. By Preſident: There is a very great magneticall pow<g ref="char:EOLhyphen"/>er and vertue in the examples of godly Magiſtrates; when they are good, all their followers, relations, acquaintance, neighbours, will be either ſeriouſly or ſeemingly good; they will be either out of ſubtilty or ſincerity like the Ruler. The <hi>primum mobile</hi> cauſes all the other ſpheres to move, and the Sun draws many flowers to be followers of him; ſo people are much guided and directed by their Magiſtrates. <hi>Ethelbert</hi> (a Chriſtian King of <hi>Kent)</hi> made that whole Kingdom godly by his being godly, and countenancing of ſuch as were godly. And <hi>Caſſiodore</hi> tels us the like ſtory of <hi>Theodabad:</hi> But why ſhould I trouble you with humane, when Divine ſtory abounds with inſtances of this nature, both in the time of the Judges, as alſo of the Kings, who made that of the Poet true,</p>
+            <p>
+               <hi>Regis ad exemplum totus componitur orbis.</hi>
+            </p>
+            <p n="3">3. By Puniſhment: Thoſe who will not by fair perſwa<g ref="char:EOLhyphen"/>ſion, nor ſweet example, be brought on to godlineſſe, muſt be by ſevere means forced to compliance. <hi>David</hi> found
+<pb n="25" facs="tcp:62317:16"/> many of <hi>Sauls</hi> old Courtiers ſo wedded to their old ſins and ſuperſtitions, that he found in them</p>
+            <l>—Immedicabile vulnus</l>
+            <l>Enſe recidendum:</l>
+            <p>which made him proteſt, <hi>Pſal.</hi> 101. 8. that he would <hi>early destroy all the wicked of the land, and cut off all evil doers from the City of God;</hi> and ſo will every godly Magiſtrate do. <hi>Prov.</hi> 20. 26. <hi>A godly Ma<g ref="char:EOLhyphen"/>gistrate ſcattereth the wicked, and bringeth the wheel over them.</hi> Thoſe who ſtrike <hi>with the fist of violence,</hi> Iſa. 58. 4. he will ſtrike them with the ſword of Juſtice, <hi>Rom.</hi> 13. 4. We account it a glory for Magiſtrates to be attended with a great train here on earth, how much more glory would it be to ſee them attended with a train to heaven.</p>
+            <p>
+               <hi>Mot.</hi> 3. The great expectations of Gods people: When <hi>David</hi> was exalted to the throne after the death of <hi>Saul,</hi> the eyes of all <hi>Iſrael</hi> were upon him, expecting he would perform thoſe promiſes he had made before to them, <hi>Pſal.</hi> 75. 2. <hi>When I ſhall receive the Congregation, I will judge uprightly.</hi> Verſ. 10. <hi>All the horns of the wicked alſo will I cut off, but the horns of the righteous ſhall be exalted.</hi> The eyes of all <hi>England</hi> are now upon our Magiſtrates, expect<g ref="char:EOLhyphen"/>ing the performance of thoſe promiſes that were made to them, <hi>That judgement ſhould run down as waters, and righ<g ref="char:EOLhyphen"/>teouſneſſe as a mighty ſtream,</hi> Amos 5. 24. Now if thoſe ſprings either are dried up, or thoſe ſtreams filled with cru<g ref="char:EOLhyphen"/>elty, bribery, oppreſſion, <hi>&amp;c. We looked for judgement, but behold oppreſſions; for righteouſneſſe, but behold a cry,</hi> Iſa. 5. 7. would not theſe verifie that old verſe,</p>
+            <p>
+               <hi>Parturiunt montes, naſcetur ridiculus mus.</hi>
+            </p>
+            <p>
+               <hi>Mot.</hi> 4. The great comfort this will afford you in your dying hour, that you have Lived, Judged, Defended as Gods. It will not be long before the lock of your Deity (like <hi>Sampſons)</hi> ſhall be cut off by deaths ſizers, and you ſhall become like other men: This will be a rate cordiall to you at your departure, 2 <hi>Kings</hi> 20. 3. <hi>I beſeech thee O Lord, remember now how I have walked before thee in truth, and with a perfect heart, and have done that which is good in thy ſight;</hi>
+               <pb n="26" facs="tcp:62317:17"/> what a cheering was this to good <hi>Hezekiahs</hi> heart. <hi>Acts</hi> 13. 36. <hi>David after he had ſerved his own generation, fell aſleep:</hi> Dropt aſleep, <hi>Placidè defunctus eſt,</hi> Gerrard. How quietly do thoſe Magiſtrates lay their heads upon their pil<g ref="char:EOLhyphen"/>lows, to take their laſt ſleep.</p>
+            <p>
+               <hi>Mot.</hi> 5. The miſerableneſſe of your condition, if you neglect to diſcharge your truſt: It had been better for you never to have been Magiſtrates, to ſet high on earth, and to lie low in hell; to condemn on earth, and to be con<g ref="char:EOLhyphen"/>demned to hell, yea to a worſe place there then any of thoſe malefactors whom you have condemned for theft or murder, would it not be extreamly miſerable? <hi>Potentes, potenter torquebuntur.</hi> If Magiſtrates would often meditate on thoſe two places of Scripture, the one of which ſhews the place of this puniſhment, the other the perſons with whom they are to be puniſhed, <hi>Iſa.</hi> 30. 33. <hi>Matth.</hi> 25. 41. <hi>Go ye cur<g ref="char:EOLhyphen"/>ſed into everlaſting fire, prepared for the devil and his angels;</hi> thoſe that were placed among Gods on earth, ſhall be pla<g ref="char:EOLhyphen"/>ced among devils in hell; ſuch thoughts would make men and Magiſtrates hearts to tremble. The <hi>Indians</hi> do beleeve when they die, they ſhall be turned into devils; wicked Ma<g ref="char:EOLhyphen"/>giſtrates may beleeve when they die, they ſhall be turned unto devils.</p>
+            <p>2. <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> of Exhortation, To the People.</p>
+            <p>I. To ſubmit our ſelves to this preſent power, <hi>Rom.</hi> 13. 1, 2, 3, 4. there is a bundle of arguments to preſſe and perſwade us to it, 1 <hi>Pet.</hi> 2. 13. <hi>Submit your ſelves to every ordinance of man for the Lords ſake, whether it be unto the King as ſupream, or unto Governours, as unto them that are ſent by him for the puniſhment of evil doers, and for the praiſe of them that do well.</hi> The way to make <hi>England</hi> flouriſh, muſt be that which made <hi>Lacedamon, Per cives obtemperare doctos,</hi> as <hi>Theopom<g ref="char:EOLhyphen"/>pus</hi> ſpake of it.</p>
+            <p>II. To be thankfull:</p>
+            <p n="1">1. For the bleſſing of Government, that we have Laws to protect, and Magiſtrates to execute thoſe Laws: What a Chaos and conſuſion ſhould we ſoon come to, if theſe were <note place="margin">Aug. <hi>de Civ. Dei, lib.</hi> 4. <hi>cap.</hi> 4.</note> wanting. <hi>Remotâ juſtitia, quid ſunt regna niſi magna latro<g ref="char:EOLhyphen"/>cinia?</hi>
+               <pb n="27" facs="tcp:62317:17"/> Remove government, and Nations will quickly be<g ref="char:EOLhyphen"/>come dens of beaſts for prey, ſlaughter-houſes of blood, <hi>Judg.</hi> 17. 6. When <hi>there was no King in Iſrael, every one did that which was right in his own eyes.</hi> What right was that? If you read the three following Chapters, you ſhall finde wrong enough: <hi>Mieahs</hi> houſe full of Idols, Levites turn'd a begging, houſes plundred, <hi>Laiſh</hi> treacherouſly fallen on, the Levites Concubine abuſed, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. For preſent Governours: Give thanks to the God above, for our Gods below; for thoſe happy and <hi>Halcyon</hi> daies of peace, plenty, proſperity; we ſit every one under his Vine and Figtree, <hi>and none maketh us afraid,</hi> Micah 4. 4. yea we hear the joyfull ſound, <hi>Pſal.</hi> 89. 15. we enjoy our Ordinances and opportunities for our ſouls advantage.</p>
+            <p>There are two things I would not have you forget.</p>
+            <p n="1">1. Their ſparing you in crowding Oathes and Covenants upon your conſciences, meer ſnares to the people of God.</p>
+            <p n="2">2. Their freeneſſe and forwardneſſe to provide good Mi<g ref="char:EOLhyphen"/>niſters, as alſo good Maintenance for thoſe Miniſters, and that from ſuch monies as were wont to go into the Coffers of former Magiſtrates; very happy are many Market Towns in <hi>England</hi> upon this account, whoſe Miniſters bodies muſt o<g ref="char:EOLhyphen"/>therwiſe have been ſtarved, or elſe the peoples ſouls.</p>
+            <p>Now to ſpeak ſomething to the particular: and Firſt, To <note place="margin">To the Judge.</note> you, my Lord, whom I may fitly call <hi>Deus umbratilis,</hi> a ſha<g ref="char:EOLhyphen"/>dowing God, or the ſhadow of God; you are a heavenly piece of coin, who have the Image and ſuperſcription of God and <hi>Ceſar</hi> ſtampt upon you: I would willingly preſent ſome<g ref="char:EOLhyphen"/>thing to you, which if it ſhould diſpleaſe, I profeſſe it is like natures production of monſters, which the Philoſophers tell us is <hi>praeter intentionem ipſius.</hi>
+            </p>
+            <p>And ſeeing the burthen of both Courts lies upon you, being alone, give me leave to ſpeak to you, as you are to be Judge of Life and Death.</p>
+            <p n="1">I. You are not ignorant in what age of the world we live in, the old age, which is full of diſtempers and diſeaſes, the very dregs of ſins ſeat and center themſelves in it; the deluge of ſin hath drowned the whole Nation (except the Arks of
+<pb n="28" facs="tcp:62317:18"/> ſome few <hi>Noahs.)</hi> Sin is grown impudent, a whores forehead, <hi>Jer.</hi> 3. 3. Sin hath faced and affrighted the Miniſters, that few of them dare oppoſe it.</p>
+            <p n="1">1. Some, for fear their neighbous will cheat them of their Tithes.</p>
+            <p n="2">2. Others, for fear their credits ſhould be blaſted.</p>
+            <p n="3">3. A third ſort, for fear of the loſſe of their living, which they ſee two or three ſons of <hi>Belial</hi> joyning their forces to<g ref="char:EOLhyphen"/>gether, are able to rout any Miniſter, though it might be as truly ſaid of him, as was once ſaid of <hi>Chryſoſtom, Satiùs eſt ut ſol non luceat, quàm ut ipſe non doceat.</hi> And thoſe few Miniſters (that will jeopardize their Livings, Liberties, and Lives in oppoſing ſinne) are ſo eclipſed, and crowded with diſgraces of <hi>Baals</hi> prieſts, Zealous black-coats, covetous tithe-mongers, long-winded Parſons, <hi>&amp;c.</hi> that ſinne over<g ref="char:EOLhyphen"/>powers them, and gets head in deſpite of their heart. Now (my Lord) put to your helping hand, oppoſe ſinne openly, correct it ſeverely, do ſomething in <hi>terrorem,</hi> that all <hi>Eng<g ref="char:EOLhyphen"/>land</hi> may hear and fear, and do no more any ſuch wicked<g ref="char:EOLhyphen"/>neſſe, <hi>Deut.</hi> 13. 11. I have heard it ſpoken by a Reverend Judge (now with God) to the perpetuall praiſe of Judge <hi>Popham,</hi> and Judge <hi>Hitcham;</hi> in whoſe daies the high<g ref="char:EOLhyphen"/>waies of <hi>England</hi> were like the waies from <hi>Peloponneſus</hi> to <hi>Athens,</hi> ſo full of theeves that none could eſcape robbing, <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lut,</note> perhaps not killing in his travels: Yet they by their indu<g ref="char:EOLhyphen"/>ſtry, zeal, ſeverity, ſo cleered the Counties where they rode Circuits, that (according to what one of them promiſed) a man might ride over <hi>Sariſbury</hi> Plain, with a purſe in his hand. By reaſon of our late warre (which is the womb of all evil) our Nation hath ſwarmed with rogues and robbers, that we cannot ride ſafely in the waies, nor ſleep quietly in our beds for them; oh let ſuch ſevere carriage, and zealous courage ſhew themſelves againſt them and all other male<g ref="char:EOLhyphen"/>factors, that the beams of a Deity may ſhine forth to the confuſion of prophaneſſe and ungodlineſſe, that when you pronounce ſentence, all may ſay in a true ſenſe, what they ſaid in a falſe of <hi>Herod, It is the voice of God, and not of man, Acts</hi> 12. 22.</p>
+            <p n="2">
+               <pb n="29" facs="tcp:62317:18"/> II. As Judge of <hi>Niſi prius.</hi>
+            </p>
+            <p n="1">1. Caſt out all frivolous ſuits, all malitious, vexatious actions, thoſe <hi>opprobria legis,</hi> let them know,</p>
+            <p>
+               <hi>(Non vacat exiguis rebus adeſſe Jovi.)</hi> that your Deity cannot attend ſuch ſorry buſineſſes, and that your juſtice ſhall never be executioner to their malice.</p>
+            <p n="2">2. Have a ſpecial care that no ſons of <hi>Belial,</hi> who ſwear uſually, be admitted for a witneſſe, or to take an oath; make a difference between them that ſwear, and them that <hi>fear an oath,</hi> Eccleſ 9. 2. You know that two ſons of <hi>Belial</hi> can and will ſwear a righteous <hi>Naboth,</hi> not only out of his livelihood, but alſo out of his life, except you interpoſe, 1 <hi>King.</hi> 21. 13.</p>
+            <p n="3">3. That thoſe witneſſes who ſhall ſwear point blank one to another, (as white is to black) that the witneſſe who is found to ſwear faſly, have the reward of perjury. It is now in <hi>England</hi> (as it was once in <hi>Rome)</hi> that perſons are to be had and hired on both ſides, by which innocency is wronged, juſtice abuſed, Judges puſled: Theſe oaths make the Land to mourn, oh make thoſe perſons mourn for their oaths.</p>
+            <p>Secondly, To you my much honoured friends the Juſtices <note place="margin">To the Juſtices</note> of peace, who are our <hi>dii titulares;</hi> I may invert <hi>Tertullus</hi> ſpeech to <hi>Felix</hi> (in particular) to you (in generall) <hi>By your care we enjoy great quietneſſe, and very worthy deeds are done</hi> (unto this County) <hi>by your providence.</hi> Let me humbly in<g ref="char:EOLhyphen"/>treat theſe things of you.</p>
+            <p n="1">1. Keep down and pull down thoſe artillery gardens of ſin, in which youths are muſtered, and made compleat ſoul<g ref="char:EOLhyphen"/>diers for hels ſervice, <hi>viz.</hi> Alchouſes, and ſuffer not the put<g ref="char:EOLhyphen"/>ting down one of them, to be like the cutting off the head of <hi>Hydra,</hi> in whoſe room ſeven more came, as hath been in ſome places of this County.</p>
+            <p n="2">2. Keep a very ſtrict and ſevere hand over inferiour offi<g ref="char:EOLhyphen"/>cers; know that they are not like the heavens, that can move by an inward principle, <hi>viz.</hi> of conſcience of the fear of God, but like Clocks or Jacks that only move by the heavy weights of a Warrant, or fear of puniſhment.</p>
+            <p n="3">3. Never permit prophane and ignorant perſons to be
+<pb n="30" facs="tcp:62317:19"/> choſen officers: It is never likely that one drunkard or ſwearer will puniſh or complain of another.</p>
+            <p n="4">4. Command the Officers of all Congregations, to bring in the names of all ſuch perſons, as were abſent from the pub<g ref="char:EOLhyphen"/>lick worſhip of God on the Lords day; For many under the pretence of going to any place, go to no place of publick ordinances, but ſpend that day moſt prophanely.</p>
+            <p>Thirdly, To you Gentlemen of the Grand Inqueſt, who <note place="margin">To the Grand Inqueſt.</note> are <hi>dii informantes;</hi> I beſeech you do ſomething this time by way of petition, that may make for Gods glory, and the good of this County. <hi>Oramus, non pugnamus Caeſar,</hi> was lawfull in a Heathen Magiſtrates reign, much more in a Chriſtian Magiſtrates rule; one who hath valiantly reſcued our Liberties for us, of whom we in <hi>England</hi> may as truly ſay, as the <hi>Grecians</hi> of their General <hi>Q. Flaminius,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, our Saviour, our Saviour.</p>
+            <p>It would be too great impudence at leaſt to ſuſpect that He who hath purchaſed our Liberties for us, would any waies keep them from us. It would rather be a Chriſtian and cha<g ref="char:EOLhyphen"/>ritable Metonymie, to attribute <hi>(Adrians</hi> Motto) unto him, <hi>Non Mihi, ſed Populo.</hi> It ſhall therefore be my earneſt re<g ref="char:EOLhyphen"/>queſt unto you and for you, That the Lord would grant you the Spirit of Wiſdom and of Knowledge, whereby you may improve your ſelves in your places, Inſtruments of Gods honour, his Peoples intereſt, and the flouriſhing of this County.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62317:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
